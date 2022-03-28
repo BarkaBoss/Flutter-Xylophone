@@ -15,3 +15,5 @@ When several differing colours are applied it becomes less appealing. One can ev
 
 ## Out of no where
 Decided to build a Xylophone in the end
+
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/sEEMkhMOu4Y/hq720_2.jpg)](https://www.youtube.com/watch?v=sEEMkhMOu4Y)
