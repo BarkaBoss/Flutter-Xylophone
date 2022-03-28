@@ -1,16 +1,17 @@
-# neumorhph_xylophone
+# Neumorphism
 
-A new Flutter project.
+Trying out this neumorphism UI style and learnt a couple of things
 
 ## Getting Started
+![alt text](md_images/neumorph.png)
 
-This project is a starting point for a Flutter application.
+Neumorphism seems to work best when the background and elements are similar colours with varying shades.
+![alt text](md_images/neumorph2.png)
 
-A few resources to get you started if this is your first Flutter project:
+## Less Appealing
+When several differing colours are applied it becomes less appealing. One can even say repulsive
+![alt text](md_images/blinding.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Out of no where
+Decided to build a Xylophone in the end
